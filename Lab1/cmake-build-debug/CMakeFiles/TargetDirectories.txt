@@ -1,0 +1,4 @@
+D:/Work/labu/Мережі/Lab1/cmake-build-debug/CMakeFiles/server.dir
+D:/Work/labu/Мережі/Lab1/cmake-build-debug/CMakeFiles/client.dir
+D:/Work/labu/Мережі/Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Work/labu/Мережі/Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

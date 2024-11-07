@@ -1,0 +1,5 @@
+# ninja log v6
+2	801	7523276240558755	CMakeFiles/server.dir/server.c.obj	ddadbf806300ba1
+9	108	7523276579059064	server.exe	93f434978ec14b51
+1	759	7523276812128126	CMakeFiles/client.dir/client.c.obj	3e072fc4ed99293c
+759	858	7523276819710216	client.exe	9d6ce68caa257245
